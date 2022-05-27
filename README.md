@@ -1,4 +1,4 @@
-![photo](https://github.com/sh-rodro/sh-rodro.github.io/blob/main/photo.jpg?raw=true)
+![photo](https://github.com/sh-rodro/sh-rodro.github.io/blob/main/profile.png?raw=true)
 
 # About me
 
