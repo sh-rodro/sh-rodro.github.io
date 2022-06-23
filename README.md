@@ -1,4 +1,4 @@
-![ghss](assets/screenshot-01.png)
+![ghss](assets/screenshot-02.png)
 
 # About me
 
